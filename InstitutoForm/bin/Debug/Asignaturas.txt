@@ -1,0 +1,9 @@
+1-Programacion-Informatica-5
+2-Desarrollo Interfaces-Informatica-4
+3-Ingles-Lengua-15
+4-Empresa-Empresa-5
+5-Tecnologias I+D+I-Tecnologia-10
+8-Ciencias Aplicadas-Ciencias-20
+12-Matemáticas Aplicadas-Matemáticas-5
+15-Lengua Universal-Lengua-10
+13-Literatura-Lengua-5

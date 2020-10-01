@@ -1,0 +1,26 @@
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.exe.config
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.exe
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.pdb
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormPrincipal.resources
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.exe
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.pdb
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormAlumno.resources
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormAsignatura.resources
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormConsultas.resources
+C:\Users\laura\OneDrive\Escritorio\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormProfesor.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\bin\Debug\InstitutoForm.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormAlumno.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormAsignatura.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormConsultas.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormPrincipal.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.FormProfesor.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Alumno_Fichero\InstitutoForm\obj\Debug\InstitutoForm.pdb
